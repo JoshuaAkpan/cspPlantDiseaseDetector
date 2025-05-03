@@ -1,0 +1,14 @@
+[theme]
+base="light"
+
+[server]
+headless=true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = true
+
+[general]
+image = "thumbnail.jpg"
